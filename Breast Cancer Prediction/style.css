@@ -1,0 +1,12 @@
+body {
+    color: #fff;
+    background-color: #4F8BF9;
+}
+
+.sttitle>title {
+    color: #4F8BF9;
+}
+
+.stTextInput>div>div>input {
+    color: #4F8BF9;
+}
