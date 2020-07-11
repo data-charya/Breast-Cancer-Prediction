@@ -1,3 +1,4 @@
 # Breast-Cancer-Prediction :heart:
-My Machine Learning project to predict breast cancer
+## **My Machine Learning project to predict breast cancer**
+
 ![](app.PNG)
